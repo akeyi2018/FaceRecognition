@@ -16,12 +16,11 @@
 - [x] 前面部（Frontalface)
 
 + 機器一覧
-* * *
 RaspberryPi [^3]  
 RaspberryPi Camera Module Or USB Camera
-* * *
+
 + 認識精度について
-* * *
+
 1秒～2秒ぐらいのDelayが発生する  
 人形や雑誌の写真でも認識する
 
