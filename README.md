@@ -17,16 +17,16 @@
 
 + 機器一覧
 * * *
-RaspberryPi [^3] 
+RaspberryPi [^3]  
 RaspberryPi Camera Module Or USB Camera
 * * *
 + 認識精度について
 * * *
-1秒～2秒ぐらいのDelayが発生する
-
+1秒～2秒ぐらいのDelayが発生する  
+人形や雑誌の写真でも認識する
 
 [^1]: https://opencv.org/
 [^2]: https://qiita.com/tnoce/items/c819c85a85c16d246be8
-
+[^3]: https://ja.wikipedia.org/wiki/Raspberry_Pi
 
 
