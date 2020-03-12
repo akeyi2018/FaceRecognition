@@ -5,7 +5,7 @@
 
 - [x] 画像処理初心者
 - [x] Python初心者
-- [x] OpenCV初心者
+- [x] OpenCV^1初心者
 - [x] IoTエンジニア
 - [x] 顔認識に興味持っている人
 
@@ -18,8 +18,14 @@
 + 機器一覧
 * * *
 RaspberryPi
+RaspberryPi Camera Module Or USB Camera
 * * *
-
 + 認識精度について
+* * *
+1秒～2秒ぐらいのDelayが発生する
+
+
+[^1]https://opencv.org/
+
 
 
