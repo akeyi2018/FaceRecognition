@@ -11,13 +11,13 @@
 
 + 使用ライブラリー
 
-- [x] OpenCV
-- [x] カスケード手法（cascade）
+- [x] OpenCV[^1]
+- [x] カスケード手法（cascade）[^2] 
 - [x] 前面部（Frontalface)
 
 + 機器一覧
 * * *
-RaspberryPi
+RaspberryPi [^3] 
 RaspberryPi Camera Module Or USB Camera
 * * *
 + 認識精度について
@@ -26,6 +26,7 @@ RaspberryPi Camera Module Or USB Camera
 
 
 [^1]: https://opencv.org/
+[^2]: https://qiita.com/tnoce/items/c819c85a85c16d246be8
 
 
 
