@@ -25,7 +25,7 @@ RaspberryPi Camera Module Or USB Camera
 1秒～2秒ぐらいのDelayが発生する
 
 
-[^1]https://opencv.org/
+[^1]: https://opencv.org/
 
 
 
