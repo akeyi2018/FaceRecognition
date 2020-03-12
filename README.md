@@ -12,12 +12,12 @@
 + 使用ライブラリー
 
 - [x] OpenCV
-- [x] OpenCV
-- [x] OpenCV
-- [x] OpenCV
+- [x] カスケード手法（cascade）
+- [x] 前面部（Frontalface)
 
++ 機器一覧 
+++ RaspberryPi
 
-+ 機器一覧
 
 + 認識精度について
 
